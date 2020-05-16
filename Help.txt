@@ -1,0 +1,3 @@
+To run this code, open TLBOTruss.m and run it.
+After completion of the optimization process, results will be stored in “TimeHist.mat”
+Please watch HelpTLBO.mp4 for more details.
